@@ -16,6 +16,7 @@ There is a required folder structure to make this work:
 3. Tasks
 4. Calendar (Optional)
 
-To-Do: Monthly and Yearly are not currently in a functional/useful state. Need to figure out how to add all tasks from the sub-folders for these.
+# To-Do: 
+1. Monthly and Yearly are not currently in a functional/useful state. Need to figure out how to add all tasks from the sub-folders for these.
 
 
