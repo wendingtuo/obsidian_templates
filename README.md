@@ -1,6 +1,6 @@
 # obsidian_templates
 
-Templates to utilize within Obsidian for Daily, Weekly, Monthly, and Yearly Periodic Notes. 
+Templates to utilize within Obsidian for Daily and Weekly Periodic Notes. 
 
 Also includes a Task summary note that can be pinned to the side bar.
 
