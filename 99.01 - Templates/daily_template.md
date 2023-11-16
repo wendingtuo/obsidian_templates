@@ -42,7 +42,7 @@ from #Status/On_Hold
 sort file.mtime desc
 ```
 
-### Recent Notes
+## Recent Notes
 ```dataview
 TABLE dateformat(file.mtime, "dd.MM.yyyy - HH:mm") AS "Modified"
 FROM !"00 - Daily Notes" AND !"99 - Meta" AND !#Status/In_Progress AND !#Status/On_Hold
